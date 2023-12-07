@@ -1,0 +1,29 @@
+[
+    {
+        "id" : 1,
+        "first_name" : "ali",
+        "last_name" : "mohammadi",
+        "email" : "ali_mohammadi@gmail.com",
+        "password" : "654321",
+        "date" : "2004-05-24 21:00:00"
+    },
+
+    {
+        "id" : 2,
+        "first_name" : "reza",
+        "last_name" : "hosseini",
+        "email" : "reza_hosseini@gmail.com",
+        "password" : "313313",
+        "date" : "2000-07-24 14:34:00"
+    },
+
+    {
+        "id" : 3,
+        "first_name" : "pooriya",
+        "last_name" : "bashiri",
+        "email" : "purya_bashiri@gmail.com",
+        "password" : "123456",
+        "date" : "1994-09-24 22:24:00"
+
+    }
+]
